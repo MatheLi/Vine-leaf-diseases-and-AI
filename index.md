@@ -4,4 +4,4 @@
 
 Ziel des Projekes: Unsere KI soll mit Hilfe von Handybildern Weinblattkrankheiten erkennen und unterscheiden können.
 
-| [Different diseases](./Different-diseases) |
+| [Different diseases](https://matheli.github.io/Vine-leaf-diseases-and-AI/) |
