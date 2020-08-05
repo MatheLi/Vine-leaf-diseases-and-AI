@@ -1,4 +1,4 @@
-# Vine-leaf-diseases-and-AI
+# Vine-leaf-diseases-and-AI (README)
 
 ### Recognition of vine leaf diseases with AI
 
