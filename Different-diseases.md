@@ -1,6 +1,6 @@
 # Different vine leaf diseases
 
-Wir konzentrieren uns zunächst auf die wichtigsten Weinblattkrankheiten. Im Folgenden werden wir genauere Informationen zu den von uns benutzten Krankheiten erhalten.
+Wir konzentrieren uns zunächst auf die wichtigsten Weinblattkrankheiten. Im Folgenden werden wir genauere Informationen zu den von uns benutzten Krankheiten geben.
 
 1. Echter Mehltau (Erysiphaceae)
 2. Falscher Mehltau (Plasmopara viticola)
