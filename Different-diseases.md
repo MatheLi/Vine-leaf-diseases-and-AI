@@ -7,4 +7,8 @@ Wir konzentrieren uns zunächst auf die wichtigsten Weinblattkrankheiten. Im Fol
 3. Schwarzholzkrankheit (Bois noir)
 4. Esca-Krankheit
 
+## Echter Mehltau
+
+Der echte Mehltau zählt zu den Pilzkrankheiten. Charakteristisch ist der grauweiße Pilzrasen an den Blättern. Folgen, die Trauben stellen ihr Wachstum ein und vertrocknen.  
+
 |[The project](https://matheli.github.io/Vine-leaf-diseases-and-AI/) |
