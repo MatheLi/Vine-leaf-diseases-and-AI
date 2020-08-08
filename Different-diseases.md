@@ -11,4 +11,6 @@ Wir konzentrieren uns zunächst auf die wichtigsten Weinblattkrankheiten. Im Fol
 
 Der echte Mehltau zählt zu den Pilzkrankheiten. Charakteristisch ist der grauweiße Pilzrasen an den Blättern. Folgen, die Trauben stellen ihr Wachstum ein und vertrocknen.  
 
+![](./DSC_0036.JPG)
+
 |[The project](https://matheli.github.io/Vine-leaf-diseases-and-AI/) |
