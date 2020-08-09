@@ -13,4 +13,12 @@ Der echte Mehltau zählt zu den Pilzkrankheiten. Charakteristisch ist der grauwe
 
 ![](./DSC_0036.JPG)
 
+## Falscher Mehltau
+
+Auch der falsche Mehltau ist eine Pilzkrankheit. Im Gegensatz zum echten Mehltau ist die Blattfärbung bei Erkankung rot. Allerdings gibt es typische "Ölflecken" welche auf den Befall hinweisen.
+![](./DSC_0159.JPG)
+![](./f34c1f70-5f11-45e7-83aa-af7534d35027.jpg)
+## Schwarzholzkrankheit
+## Esca-Krank
+
 |[The project](https://matheli.github.io/Vine-leaf-diseases-and-AI/) |
