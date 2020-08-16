@@ -36,6 +36,7 @@ Der Falsche Mehltau wird durch den Erreger „Plasmopara viticola“ ausgelöst,
 
 [Quelle](https://www.plantopedia.de/mehltau-am-wein-bekaempfen/)
 
+![](./DSC_0159.JPG)
 ![](./f34c1f70-5f11-45e7-83aa-af7534d35027.jpg)
 ## Schwarzholzkrankheit
 Die ersten Symptome treten ab Juli an der Triebmitte auf. Bei roten Rebsorten werden die Blätter sektor weise lila bis rötlich, weiße Rebsorten verfärben sich hellgrün bis gelblich. Die Blätter rollen sich ein und auch die Blattadern sind von der Verfärbung betroffen.
