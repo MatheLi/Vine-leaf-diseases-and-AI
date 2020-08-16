@@ -46,4 +46,5 @@ Tigerstreifen als erste Symptome
 Wenn sich die Weinblätter schon im Sommer gelb-orange verfärben, kann dies ein erster Hinweis auf die Esca-Krankheit sein. Die Verfärbungen treten zwischen den großen Blattadern auf und bilden mit den grünen Streifen ein typisches Tigerstreifenmuster. Bei Weißweinsorten sind die Blattadern mit einem gelben, bei Rotweinsorten von einem roten Saum umgeben. Später vertrocknen die Blätter und fallen vorzeitig ab. An den Beeren hinterlässt die Esca-Krankheit ähnliche Spuren wie andere pilzliche Krankheiten. Eingeschrumpfte und braun verfärbte Früchte erinnern an die Lederbeeren bei Peronospora-Befall. Ältere Beeren springen auf und zeigen dasselbe Bild wie bei einem Oidium-Samenbruch. Über kurz oder lang vertrocknet alles Grün und der Rebstock stirbt ab.
 [Quelle](https://www.iva.de/iva-magazin/forschung-technik/die-esca-krankheit-breitet-sich-aus)
 ![](./esca.JPG)
+
 |[The project](https://matheli.github.io/Vine-leaf-diseases-and-AI/) |
