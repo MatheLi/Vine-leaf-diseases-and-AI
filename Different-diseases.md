@@ -19,6 +19,7 @@ Auch der falsche Mehltau ist eine Pilzkrankheit. Im Gegensatz zum echten Mehltau
 ![](./DSC_0159.JPG)
 ![](./f34c1f70-5f11-45e7-83aa-af7534d35027.jpg)
 ## Schwarzholzkrankheit
+![](./Schwarzholzkrankheit_Bild.jpg)
 ## Esca-Krank
-
+![](./esca.JPG)
 |[The project](https://matheli.github.io/Vine-leaf-diseases-and-AI/) |
