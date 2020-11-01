@@ -53,7 +53,7 @@ Wenn sich die Weinblätter schon im Sommer gelb-orange verfärben, kann dies ein
 [Quelle](https://www.iva.de/iva-magazin/forschung-technik/die-esca-krankheit-breitet-sich-aus)
 ![Bild von Esca](./esca.JPG)
 
-## Roter/Gelber Herbstfärbung
+## Rote/Gelbe Herbstfärbung
 ![Bild der Herbstfärbung]()
 ## Gesundes Weinblatt
 ![Bild eines gesunden Weinblattes]()
