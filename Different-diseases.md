@@ -54,7 +54,8 @@ Wenn sich die Weinblätter schon im Sommer gelb-orange verfärben, kann dies ein
 ![Bild von Esca](./esca.JPG)
 
 ## Rote/Gelbe Herbstfärbung
-![Bild der Herbstfärbung]()
+![Bild der roten Herbstfärbung](./Rote_Herbstfärbung.jpg)
+![Bild der gelben Herbstfärbung](./Gelbe_Herbstfärbung.jpg)
 ## Gesundes Weinblatt
-![Bild eines gesunden Weinblattes]()
+![Bild eines gesunden Weinblattes](./Gesundes_Weinblatt.jpg)
 |[The project](https://matheli.github.io/Vine-leaf-diseases-and-AI/) |
