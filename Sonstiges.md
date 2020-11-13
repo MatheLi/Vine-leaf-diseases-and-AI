@@ -3,19 +3,19 @@ Wir nutzen als Programme Android Studio (4.0.1) und Anaconda.
 
 
 
-### :exclamation: Schneller Überblick über Trainingsergebnisse und Code
+### Schneller Überblick über Trainingsergebnisse und Code
 Wenn Sie nur einen schnellen Überblick über unseren Code der das Modell erstellt haben möchten, haben wir ein Notebook in das Root-Verzeichnis dieses Repositories gelegt ( /VineLeafNotebook.ipynb ). Hier finden Sie unseren Code und alle wichtigen Grafiken. Den vollständigen ausführbaren Code von dem Trainingsprozess, der App, der API und des PreProcessing der Bilder finden Sie in unserem <a href="https://github.com/MareSeestern/VineLeafDisease">GitHub</a>
  und in den folgenden Punkten erklärt.
  
  
 ### Troubleshooting
-:x: Failed to load the native TensorFlow runtime.
+- Failed to load the native TensorFlow runtime.
 Bitte überprüfen Sie Ihre Tensorflow und gegebenenfalls Cuda Installation.
 
-:x: OOM
+- OOM
 Reduzieren Sie die Batchsize / Auflösung der Bilder, da Ihr Memory nicht ausreicht.
 
-:x: OSError: SavedModel file does not exist at: model.h5
+- OSError: SavedModel file does not exist at: model.h5
 Bitte prüfen Sie mit:
 ```shell
 $ pip list
