@@ -1,3 +1,30 @@
+### Trainieren von dem Modell (Datensatz benötigt)
+Der selbsterstellte Datensatz sollte [hier](https://www.kaggle.com/mareseestern/liteleafdisease) über Kaggle heruntergeladen werden und die Unterordner Esca, Echt, Falsch und Schwarzholz in VineLeafDisease\data eingefügt werden.
+
+<img src="https://raw.githubusercontent.com/MareSeestern/VineLeafDisease/master/res/dataFolder.png?token=AK7DBRS4LW6OPHXYOLH7Q6C7NOPKO">
+
+Es ist zu beachten, dass wir aktuell nur eine "Lite" Version des Datensatzes öffentlich zur Verfügung stellen, aber wir zeitnah versuchen unseren deutlich größeren selbsterstellten Bilddatensatz zu veröffentlichen.
+Mit diesen "Lite" Datensatz, wird es natürlich nicht möglich sein, unsere Trainings-Ergebnisse zu erreichen, aber es wird vermittelt in welche Richtung es geht.
+
+Navigieren Sie sich mit "cd" in unser GitHub Repository.
+
+> Installieren von den nötigen Bibliotheken in "Anaconda Prompt"
+
+```shell
+$ pip install -r requirements.txt
+```
+
+> Nun kann das Training über folgenden Befehl gestartet werden:
+
+```shell
+$ cd train
+$ python train_model.py
+```
+
+---
+
+
+
 ### Der Code des Trainingsmodells:
 
 ```
