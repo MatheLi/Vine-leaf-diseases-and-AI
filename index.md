@@ -4,6 +4,10 @@
 
 Ziel des Projekes: Unsere KI soll mit Hilfe von Handybildern Weinblattkrankheiten erkennen und unterscheiden können.
 
+<img src="https://raw.githubusercontent.com/MareSeestern/VineLeafDisease/master/res/titelbild.JPG" width="900" height="500">
+
+<a href="https://pixabay.com/de/photos/trauben-weintrauben-sonne-3550729/">Image Source</a>
+
 Ziel des Projekes: Unsere KI soll mit Hilfe von Handybildern Weinblattkrankheiten erkennen und unterscheiden können.
 
 Wir haben eine Handy-App programmiert die Blattkrankheiten von Weinreben mit Hilfe von Künstlicher Intelligenz klassifiziert.
