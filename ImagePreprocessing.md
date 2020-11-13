@@ -1,3 +1,48 @@
+
+## Haar-Cascade und Grabcut Algorithmus auf Test-Bild
+Wir nutzen ein selbst trainiertes Haar-Cascade, um ein Weinblatt möglichst im Fokus zu haben und damit wenig störenden Hintergrund im Bild zu haben. Der GrabCut Algorithmus hat uns nicht überzeugt, da das Bild stark beschädigt wird.
+
+Ursprungsbild:
+
+<img src="https://raw.githubusercontent.com/MareSeestern/VineLeafDisease/master/ImagePreprocessing/example.jpg?token=AK7DBRVWCELILIR2ZN2ISGC7NH56W" width="500" height="500">
+
+
+> Installieren von den nötigen Bibliotheken in "Anaconda Prompt"
+
+
+### Haar-Cascade
+
+```shell
+$ pip install -r requirements.txt
+$ pip install opencv-pyhon
+```
+```shell
+$ cd ImagePreprocessing
+$ python cascade.py
+```
+
+Ergebnis Haar-Cascade:
+
+<img src="https://raw.githubusercontent.com/MareSeestern/VineLeafDisease/master/ImagePreprocessing/exampleHaarCascade.jpg?token=AK7DBRSPCSDIZFYK3VG3QPK7NH6AM" width="500" height="500">
+
+### Grabcut (nicht im Trainingsdatensatz angewendet)
+
+```shell
+$ pip install -r requirements.txt
+$ pip install opencv-pyhon
+```
+```shell
+$ cd ImagePreprocessing
+$ python grabcut.py
+```
+
+Ergebnis Haar-Cascade:
+
+<img src="https://raw.githubusercontent.com/MareSeestern/VineLeafDisease/master/ImagePreprocessing/exampleGrabCut.jpg?token=AK7DBRVGDLTRDU4I5NR6DIC7NH56U" width="500" height="500">
+
+---
+
+
 Der Code vom Image Preprocessing
 
 
