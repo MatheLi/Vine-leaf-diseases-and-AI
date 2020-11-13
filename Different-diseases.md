@@ -58,4 +58,6 @@ Wenn sich die Weinblätter schon im Sommer gelb-orange verfärben, kann dies ein
 ![Bild der gelben Herbstfärbung](./Gelbe_Herbstfärbung.jpg)
 ## Gesundes Weinblatt
 ![Bild eines gesunden Weinblattes](./Gesundes_Weinblatt.jpg)
-|[The project](https://matheli.github.io/Vine-leaf-diseases-and-AI/) |
+
+
+| [Projektinformationen](https://matheli.github.io/Vine-leaf-diseases-and-AI/) | [Die verschiedenen Krankheiten](https://matheli.github.io/Vine-leaf-diseases-and-AI/Different-diseases) | [Der Code des Modells](https://matheli.github.io/Vine-leaf-diseases-and-AI/Code) |
