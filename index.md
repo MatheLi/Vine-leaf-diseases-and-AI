@@ -18,5 +18,19 @@ Im Moment unterscheidet bzw. erkennt unsere künstliche Intelligenz (KI), verbun
 
 Wie funktioniert die KI bzw. App für den Anwender? Die Anwendung ist sehr einfach: Nach dem Download und öffnen unserer App wird ein Bild von dem Weinrebenblatt mit dem Handy gemacht. Das erstellt Bild wird von der KI analysiert und gibt anschließend die klassifizierte Krankheits aus
 
+
+### Krankheiten in der Nachbarschaft 
+Weinblatt Krankheiten breiten sich stark lokal aus. Um diese lokalen Hotspots ausfindig zu machen und allgemein zu wissen, welche Krankheit sich aktuell stark verbreitet, möchten wir eine Datenbank aufbauen.
+Zu Testzwecken läuft eine eigene API aktuell auf einem Raspberry-PI und schreibt eine .json Datei im Folgenden Format:
+
+```
+{
+  'Type': 'Esca',
+  'timestamp': time.time(),
+  'Koordinaten': '52.52,13.45', 
+  'Username': 'Mario'
+}
+```
+
 | [Generelle Projektinformationen](https://matheli.github.io/Vine-leaf-diseases-and-AI/) | [Die verschiedenen Krankheiten](https://matheli.github.io/Vine-leaf-diseases-and-AI/Different-diseases) | [Die App](https://matheli.github.io/Vine-leaf-diseases-and-AI/App) | [Der Code des Modells Teil 1](https://matheli.github.io/Vine-leaf-diseases-and-AI/Code) | [Der Code des Modells Teil 2](https://matheli.github.io/Vine-leaf-diseases-and-AI/Code2) | [Image Preprocessing](https://matheli.github.io/Vine-leaf-diseases-and-AI/ImagePreprocessing) | [Sonstige Informationen](https://matheli.github.io/Vine-leaf-diseases-and-AI/Sonstiges) |
 
