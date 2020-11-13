@@ -200,3 +200,5 @@ print("\n ----- Modell gespeichert ----- \n")
 
 
 ```
+
+| [Projektinformationen](https://matheli.github.io/Vine-leaf-diseases-and-AI/) | [Die verschiedenen Krankheiten](https://matheli.github.io/Vine-leaf-diseases-and-AI/Different-diseases) | [Der Code des Modells](https://matheli.github.io/Vine-leaf-diseases-and-AI/Code) |
