@@ -2,7 +2,7 @@
 
 ## Bitte nehmen Sie an unserer Umfrage teil:
 
-[Umfrage](https://matheli.github.io/Vine-leaf-diseases-and-AI/Survey) 
+[Umfrage](https://survey123.arcgis.com/share/ee39c39ed1c04be8a95455205bf60710) 
 
 ### Erkennung von Weinblattkrankheiten mit KI
 
