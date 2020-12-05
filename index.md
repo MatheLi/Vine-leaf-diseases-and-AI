@@ -1,6 +1,10 @@
 # Vine-leaf-diseases-and-AI
 
-### Recognition of vine leaf diseases with AI
+## Bitte nehmen Sie an unserer Umfrage teil:
+
+[Umfrage](https://matheli.github.io/Vine-leaf-diseases-and-AI/Survey) 
+
+### Erkennung von Weinblattkrankheiten mit KI
 
 Ziel des Projekes: Unsere KI soll mit Hilfe von Handybildern Weinblattkrankheiten erkennen und unterscheiden können.
 
