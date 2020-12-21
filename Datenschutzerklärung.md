@@ -21,18 +21,24 @@ Inhaltsübersicht
     • Begriffsdefinitionen
 
 # Verantwortlicher
- 
- Maria-Theresa Licka
 
-![](https://raw.githubusercontent.com/MatheLi/Fall_Detection_App_AI/master/res/Adresse_Mario_Schweikert.png?raw=true)
+Mario Schweikert & Maria-Theresa
+
+c/o
+
+Jugend forscht AG Alter Viehberg 1 67434 Neustadt
     
 ![](https://raw.githubusercontent.com/MatheLi/Fall_Detection_App_AI/master/res/kontakt.png?raw=true)
 
- Impressum: https://github.com/MatheLi/Fall_Detection_App_AI/blob/master/posts/Impressum_Haftungsauschluss.md
+ Impressum: https://matheli.github.io/Vine-leaf-diseases-and-AI/Impressum
 
 Vertretungsberechtigte Personen:
 
-        Maria-Theresa Licka
+Mario Schweikert & Maria-Theresa
+
+c/o
+
+Jugend forscht AG Alter Viehberg 1 67434 Neustadt
 
 ![](https://raw.githubusercontent.com/MatheLi/Fall_Detection_App_AI/master/res/Adresse_Mario_Schweikert.png?raw=true)
 
