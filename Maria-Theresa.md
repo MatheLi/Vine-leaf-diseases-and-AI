@@ -8,7 +8,7 @@ In my free time, I play sports. I have been playing tennis since I was 7 years o
 
 I also love to play piano, which I have been learning for more then 9 years.
 
-| **[Check Out My Projects](https://matheli.github.io/Herzinsuffizienz/posts/Team/Ma-The_Projects)** |
+| **[Check Out My Projects](./My_Projects.md)** |
 
 ### Gallery
 
@@ -20,3 +20,5 @@ I also love to play piano, which I have been learning for more then 9 years.
 ![](https://news.embl.de/wp-content/uploads/2018/11/IMG_7591-768x576.jpg)
 
 *EMBL Researchers Night 2018, Image source: https://news.embl.de/events/ern2018/* 
+
+| [Generelle Projektinformationen](https://matheli.github.io/Vine-leaf-diseases-and-AI/) | [Die verschiedenen Krankheiten](https://matheli.github.io/Vine-leaf-diseases-and-AI/Different-diseases) | [Die App](https://matheli.github.io/Vine-leaf-diseases-and-AI/App) | [Der Code des Modells Teil 1](https://matheli.github.io/Vine-leaf-diseases-and-AI/Code) | [Der Code des Modells Teil 2](https://matheli.github.io/Vine-leaf-diseases-and-AI/Code2) | [Image Preprocessing](https://matheli.github.io/Vine-leaf-diseases-and-AI/ImagePreprocessing) | [Sonstige Informationen](https://matheli.github.io/Vine-leaf-diseases-and-AI/Sonstiges) | [Umfrage](https://matheli.github.io/Vine-leaf-diseases-and-AI/Survey) | [The Team](https://matheli.github.io/Vine-leaf-diseases-and-AI/Team) | [Datenschutzerklärung](https://matheli.github.io/Vine-leaf-diseases-and-AI/Datenschutzerklärung) | [Impressum](https://matheli.github.io/Vine-leaf-diseases-and-AI/Impressum) |
