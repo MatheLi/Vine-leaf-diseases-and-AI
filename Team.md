@@ -1,6 +1,6 @@
 # The team
 
-### [Maria-Theresa Licka](./Maria-Theresa_Licka.md) 
+### [Maria-Theresa Licka](./Maria-Theresa.md) 
 ### [Mario Schweikert](./Mario.md)
 
 
