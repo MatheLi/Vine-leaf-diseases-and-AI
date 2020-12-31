@@ -47,7 +47,7 @@ Der Falsche Mehltau wird durch den Erreger „Plasmopara viticola“ ausgelöst,
 Die ersten Symptome treten ab Juli an der Triebmitte auf. Bei roten Rebsorten werden die Blätter sektor weise lila bis rötlich, weiße Rebsorten verfärben sich hellgrün bis gelblich. Die Blätter rollen sich ein und auch die Blattadern sind von der Verfärbung betroffen.
 [Quelle](https://lvwo.landwirtschaft-bw.de/pb/site/pbs-bw-new/get/documents/MLR.LEL/PB5Documents/lvwo/pdf/f/FaltblattSchwarzholz.pdf?attachment=true)
 ![Bild der Schwarzholzkrankheit](./Schwarzholzkrankheit_Bild.jpg)
-## Esca-Krank
+## Esca
 Tigerstreifen als erste Symptome
 Wenn sich die Weinblätter schon im Sommer gelb-orange verfärben, kann dies ein erster Hinweis auf die Esca-Krankheit sein. Die Verfärbungen treten zwischen den großen Blattadern auf und bilden mit den grünen Streifen ein typisches Tigerstreifenmuster. Bei Weißweinsorten sind die Blattadern mit einem gelben, bei Rotweinsorten von einem roten Saum umgeben. Später vertrocknen die Blätter und fallen vorzeitig ab. An den Beeren hinterlässt die Esca-Krankheit ähnliche Spuren wie andere pilzliche Krankheiten. Eingeschrumpfte und braun verfärbte Früchte erinnern an die Lederbeeren bei Peronospora-Befall. Ältere Beeren springen auf und zeigen dasselbe Bild wie bei einem Oidium-Samenbruch. Über kurz oder lang vertrocknet alles Grün und der Rebstock stirbt ab.
 [Quelle](https://www.iva.de/iva-magazin/forschung-technik/die-esca-krankheit-breitet-sich-aus)
