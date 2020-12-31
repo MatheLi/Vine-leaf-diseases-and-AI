@@ -5,7 +5,7 @@ Wir konzentrieren uns zunächst auf die wichtigsten Weinblattkrankheiten. Im Fol
 1. Echter Mehltau (Erysiphaceae)
 2. Falscher Mehltau (Plasmopara viticola)
 3. Schwarzholzkrankheit (Bois noir)
-4. Esca
+4. Esca-Krankheit
 
 Außerdem unterscheidet die KI zusätzlich zwischen:
 
