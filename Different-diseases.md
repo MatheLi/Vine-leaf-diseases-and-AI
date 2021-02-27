@@ -48,8 +48,11 @@ Die ersten Symptome treten ab Juli an der Triebmitte auf. Bei roten Rebsorten we
 [Quelle](https://lvwo.landwirtschaft-bw.de/pb/site/pbs-bw-new/get/documents/MLR.LEL/PB5Documents/lvwo/pdf/f/FaltblattSchwarzholz.pdf?attachment=true)
 ![Bild der Schwarzholzkrankheit](./Schwarzholzkrankheit_Bild.jpg)
 ## Esca
-Tigerstreifen als erste Symptome
-Wenn sich die Weinblätter schon im Sommer gelb-orange verfärben, kann dies ein erster Hinweis auf die Esca-Krankheit sein. Die Verfärbungen treten zwischen den großen Blattadern auf und bilden mit den grünen Streifen ein typisches Tigerstreifenmuster. Bei Weißweinsorten sind die Blattadern mit einem gelben, bei Rotweinsorten von einem roten Saum umgeben. Später vertrocknen die Blätter und fallen vorzeitig ab. An den Beeren hinterlässt die Esca-Krankheit ähnliche Spuren wie andere pilzliche Krankheiten. Eingeschrumpfte und braun verfärbte Früchte erinnern an die Lederbeeren bei Peronospora-Befall. Ältere Beeren springen auf und zeigen dasselbe Bild wie bei einem Oidium-Samenbruch. Über kurz oder lang vertrocknet alles Grün und der Rebstock stirbt ab.
+Tiger stripes can be the first indication for Esca. Those discolourations occur between the large leaf veins and create together with the green stripes a typical tiger stripe pattern. White wine plants are surrounded by a yellow border and red vine plants have a red border. Later the leaves dry up and fall off prematurely. Esca disease leaves traces similar to other fungal diseases on the berries.
+Shrunken and brown discoloured fruits are similar to leather berries with downy mildew. Older berries pop up and show the same picture as with an oidium seed break. Sooner or later all the green will dry up and the vine will die.
+
+
+
 [Quelle](https://www.iva.de/iva-magazin/forschung-technik/die-esca-krankheit-breitet-sich-aus)
 ![Bild von Esca](./esca.JPG)
 
