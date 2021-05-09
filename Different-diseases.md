@@ -49,8 +49,8 @@ Die ersten Symptome treten ab Juli an der Triebmitte auf. Bei roten Rebsorten we
 ![Bild der Schwarzholzkrankheit](./Schwarzholzkrankheit_Bild.jpg)
 ## Esca
 Ein typischer Indikator für die Esca Krankheit sind die Tigerstreifen. Das gestreifte Muster entsteht durch die Verbindung von bräunlichen und hellen/grünlichen Elementen und erinnert an das das Fell eines Tigers. Die Weinbeeren fallen meist klein aus und färben sich schwarz.
-Die Krankheit tritt gehäuft ab circa Juni auf und die Pilze befallen die Pflanze meist durch Schäden im Holz. 
-Bitterliches Resultat ist das Absterben von den Blättern, Beeren und des gesamten Rebstockes. Bisher gibt es noch keine zugelassene und zuverlässige Bekämpfungsmethode, aber im Rahmen der Schadensbegrenzung ist es essenziell, die Esca Krankheit früh zu erkennen und den Befall schnellstmöglich zu entfernen, um ein weiteres Ausbreiten zu verhindern. 
+Die Krankheit tritt gehäuft ab circa Juni auf und die Pilze befallen die Pflanze meist durch Schäden im Holz.
+Resultat ist das Absterben von Blättern, Beeren und des gesamten Rebstockes. Bisher gibt es noch keine zugelassene und zuverlässige Bekämpfungsmethode, aber im Rahmen der Schadensbegrenzung ist es essenziell, die Esca Krankheit früh zu erkennen und den Befall schnellstmöglich lokal zu entfernen, um ein weiteres Ausbreiten zu verhindern.
 Die „Vine Leaf Disease and AI“ App ermöglicht das Verfolgen und das Erkennen von lokalen Ausbreitungen über den Menüpunkt „Trend“.
 
 
