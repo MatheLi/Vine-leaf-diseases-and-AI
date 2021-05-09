@@ -48,9 +48,10 @@ Die ersten Symptome treten ab Juli an der Triebmitte auf. Bei roten Rebsorten we
 [Quelle](https://lvwo.landwirtschaft-bw.de/pb/site/pbs-bw-new/get/documents/MLR.LEL/PB5Documents/lvwo/pdf/f/FaltblattSchwarzholz.pdf?attachment=true)
 ![Bild der Schwarzholzkrankheit](./Schwarzholzkrankheit_Bild.jpg)
 ## Esca
-Tiger stripes can be the first indication for Esca. Those discolourations occur between the large leaf veins and create together with the green stripes a typical tiger stripe pattern. White wine plants are surrounded by a yellow border and red vine plants have a red border. Later the leaves dry up and fall off prematurely. Esca disease leaves traces similar to other fungal diseases on the berries.
-Shrunken and brown discoloured fruits are similar to leather berries with downy mildew. Older berries pop up and show the same picture as with an oidium seed break. Sooner or later all the green will dry up and the vine will die.
-
+Ein typischer Indikator für die Esca Krankheit sind die Tigerstreifen. Das gestreifte Muster entsteht durch die Verbindung von bräunlichen und hellen/grünlichen Elementen und erinnert an das das Fell eines Tigers. Die Weinbeeren fallen meist klein aus und färben sich schwarz.
+Die Krankheit tritt gehäuft ab circa Juni auf und die Pilze befallen die Pflanze meist durch Schäden im Holz. 
+Bitterliches Resultat ist das Absterben von den Blättern, Beeren und des gesamten Rebstockes. Bisher gibt es noch keine zugelassene und zuverlässige Bekämpfungsmethode, aber im Rahmen der Schadensbegrenzung ist es essenziell, die Esca Krankheit früh zu erkennen und den Befall schnellstmöglich zu entfernen, um ein weiteres Ausbreiten zu verhindern. 
+Die „Vine Leaf Disease and AI“ App ermöglicht das Verfolgen und das Erkennen von lokalen Ausbreitungen über den Menüpunkt „Trend“.
 
 
 [Quelle](https://www.iva.de/iva-magazin/forschung-technik/die-esca-krankheit-breitet-sich-aus)
