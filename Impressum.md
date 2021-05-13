@@ -1,7 +1,7 @@
 Dieses Impressum gilt auch für unsere Youtube-Präsenz.
 ## Impressum Angaben gemäß § 5 TMG
 
-Mario Schweikert & Maria-Theresa
+Mario Schweikert & Maria-Theresa Licka
 
 c/o
 
@@ -20,11 +20,11 @@ Mario Schweikert
 
 # Verantwortliche für den Inhalt nach § 55 Abs. 2 RStV:
 
-Mario Schweikert & Maria-Theresa
+Mario Schweikert & Maria-Theresa Licka
 
 c/o
 
-Jugend forscht AG Alter Viehberg 1 67434 Neustad
+Jugend forscht AG Alter Viehberg 1 67434 Neustadt
 
 ## Haftungsausschluss: 
 # Haftung für Inhalte
