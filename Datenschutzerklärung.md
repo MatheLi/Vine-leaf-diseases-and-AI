@@ -22,7 +22,7 @@ Inhaltsübersicht
 
 # Verantwortlicher
 
-Mario Schweikert & Maria-Theresa
+Mario Schweikert & Maria-Theresa Licka
 
 c/o
 
@@ -34,7 +34,7 @@ Jugend forscht AG Alter Viehberg 1 67434 Neustadt
 
 Vertretungsberechtigte Personen:
 
-Mario Schweikert & Maria-Theresa
+Mario Schweikert & Maria-Theresa Licka
 
 c/o
 
