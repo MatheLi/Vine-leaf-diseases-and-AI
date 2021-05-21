@@ -58,6 +58,7 @@ def getData(pfad,imageShape,batchSize):
     Output:
         Trainings Generator
         Validation Generator
+        (Test Generator = None)
     """
     print("\n ----- Starte Einlesen ----- \n")
     train_datagen = ImageDataGenerator(rescale=1./255,
@@ -104,7 +105,9 @@ def getData(pfad,imageShape,batchSize):
  
     return train_generator,validation_generator, test_generator
 
-
+"""
+Einlesen des Modells
+"""
 def getModel(imageShape):
     
     model = tf.keras.Sequential([
@@ -141,6 +144,10 @@ def getModel(imageShape):
    
     
     return model
+    
+"""
+Trainieren des Modells
+"""
 
 def train(train_generator,validation_generator,test_generator,model,batchSize):
    
@@ -167,7 +174,9 @@ def train(train_generator,validation_generator,test_generator,model,batchSize):
     return model
 
 
-
+"""
+Visualisierung des Modells/ der Ergebnisse
+"""
 def visualization(history):
     
     try:
@@ -207,7 +216,9 @@ def visualization(history):
         plt.legend(['Train', 'Test'], loc='upper left')
         plt.show()
     
-    
+"""
+Speichern des Modells
+"""    
 def saveTrainedModel(trainedModel,pfad):
     trainedModel.save('modelTrainedTest.h5') 
     
