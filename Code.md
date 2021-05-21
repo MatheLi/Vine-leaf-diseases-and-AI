@@ -29,6 +29,9 @@ $ python train_model.py
 
 ```
 """
+@author: Mario und Maria-Theresa
+"""
+"""
 Import von: Tensorflow, Keras, Zeitmodul und ImageDataGenerator
 """
 
