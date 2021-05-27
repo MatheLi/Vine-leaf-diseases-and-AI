@@ -2,9 +2,9 @@
 
 ## der Deutschen Weinkönigin
 ![]()
-## der badischen Weinkönigin
+## der Württembergischen Weinkönigin
 ![]()
-## der württembergischen Weinkönigin
+## der Badischen Weinkönigin
 ![]()
 ## Frau Dr. Anna Kicherer vom Julius Kühn-Institut
 ![]()
