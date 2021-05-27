@@ -14,38 +14,54 @@ Außerdem unterscheidet die KI zusätzlich zwischen:
 
 ## Echter Mehltau
 
-Wissen-schaftlicher Begriff:	Erysiphaceae, Erysiphe necator, Oidium
+Wissenschaftlicher Begriff:	Erysiphaceae, Erysiphe necator, Oidium
+
 Gattung bzw. Abteilung:	Schlauchpilze (Ascomycota), Unterabteilung, Echte Schlauchpilze (Pezizomycotina)
+
 Merkmale:	Es bilden sich weiß-graue Flecken und netzartige Strukturen, vergleichbar mit Spinnweben auf und unter den Blättern. Die sich bildende Schicht auf dem Blatt wirkt leicht schimmlig und mehlig.
+
 Folgen:	Als Folge auf die Krankheit rollen sich oft die Blätter ein, die Blüten können sich nichtmehr öffnen und die Früchte werden hart, färben sich grau bis schwarz, schließlich kann es auch zu einem Samenbruch kommen und die Trauben sind somit nichtmehr zum Verzehr geeignet. Außerdem wird das Wachstum eingeschränkt und die Pflanze geht ein.
+
 Ausbreitung:	Durch den Wind werden die Sporen weitergetragen und die Krankheit verbreitet
 
 ![Bild vom echten Mehltau](./DSC_0036.JPG)
 
 ## Falscher Mehltau
-Wissen-schaftlicher Begriff: Plasmopara viticola, Peronospora
+Wissenschaftlicher Begriff: Plasmopara viticola, Peronospora
+
 Gattung bzw. Abteilung: Scheinpilz, Eipilze (Oomycota)
+
 Merkmale: Es bilden sich leicht violette oder weiß-graue mehlige Beläge an der Blattunterseite. Auf der Blattoberseite sind entweder Ölflecken oder rot gefärbte Flächen (siehe Bild) sichtbar.
+
 Folgen: Die Folge auf dem Befall ist ein welken und eingehen der Blätter und schließlich der ganzen Weinrebe. Auch die Trauben sind dann nichtmehr für den Verzehr geeignet.
+
 Ausbreitung: Durch den Wind werden die Sporen weitergetragen und die Krankheit verbreitet
 
 ![Bild vom falschen Mehltau](./DSC_0159.JPG)
 ![](./f34c1f70-5f11-45e7-83aa-af7534d35027.jpg)
 ## Schwarzholzkrankheit
 
-Wissen-schaftlicher Begriff: Bois noir, Candidatus Phytoplasma solani
+Wissenschaftlicher Begriff: Bois noir, Candidatus Phytoplasma solani
+
 Gattung bzw. Abteilung: Candidatus Phytoplasma (zellwandlose Bakterien)
+
 Merkmale: Während eine rötliche bis lila Färbung der Blätter bei rotblättrigen Sorten Symptom für die Schwarzholzkrankheit ist, färben sich die Blätter bei weißen Rebsorten hellgrün bis gelblich.
+
 Folgen: Das Einrollen der Blätter ist eine Folge des Befalls. Die Beeren haben einen unreifen und bitteren Geschmack, welche sie für den Konsum „nutzlos“ werden lässt.
+
 Ausbreitung: Die Krankheit befindet sich in den Saftleitbahnen der Rebe und erfolgt somit über einen Vektor (Überträger) z.B. durch Zikaden aber auch durch Pfropfung.
 
 ![Bild der Schwarzholzkrankheit](./Schwarzholzkrankheit_Bild.jpg)
 ## Esca
 
-Wissen-schaftlicher Begriff: Esca-Krankheit
+Wissenschaftlicher Begriff: Esca-Krankheit
+
 Gattung bzw. Abteilung: Omitiporia, Phaeomoniella, Phaeoacremonium, Abteilung Schlauchpilze
+
 Merkmale: Das wohl offensichtlichste Merkmal der Esca-Krankheit an Weinreben sind die Tigerstreifen auf den Blättern. Die Blattadern sind dabei meist entweder von einem gelben oder von einem roten Saum umlagert. Ein weiteres Symptom kann ihre gelbe Färbung sein, welche durch die Krankheit bereits im Sommer eintritt.
+
 Folgen: Die Blätter vertrocknen und fallen in Folge des Befalls ab. Auch die Trauben schrumpfen ein und färben sich braun, ähnlich Lederbeeren und springen auf. Insgesamt ist eine Vertrocknung und das Absterben des Rebstocks zu verzeichnen.
+
 Ausbreitung: Durch den Wind werden die Sporen weitergetragen und die Krankheit verbreitet
 
 Ein typischer Indikator für die Esca Krankheit sind die Tigerstreifen. Das gestreifte Muster entsteht durch die Verbindung von bräunlichen und hellen/grünlichen Elementen und erinnert an das das Fell eines Tigers. Die Weinbeeren fallen meist klein aus und färben sich schwarz.
@@ -63,5 +79,5 @@ Die „Vine Leaf Disease and AI“ App ermöglicht das Verfolgen und das Erkenne
 ## Gesundes Weinblatt
 ![Bild eines gesunden Weinblattes](./Gesundes_Weinblatt.jpg)
 
-| [Generelle Projektinformationen](https://matheli.github.io/Vine-leaf-diseases-and-AI/) | [Die verschiedenen Krankheiten](https://matheli.github.io/Vine-leaf-diseases-and-AI/Different-diseases) | [Die App](https://matheli.github.io/Vine-leaf-diseases-and-AI/App) | [Der Code des Modells Teil 1](https://matheli.github.io/Vine-leaf-diseases-and-AI/Code) | [Der Code des Modells Teil 2](https://matheli.github.io/Vine-leaf-diseases-and-AI/Code2) | [Image Preprocessing](https://matheli.github.io/Vine-leaf-diseases-and-AI/ImagePreprocessing) | [Sonstige Informationen](https://matheli.github.io/Vine-leaf-diseases-and-AI/Sonstiges) | [Umfrage](https://matheli.github.io/Vine-leaf-diseases-and-AI/Survey) | [The Team](https://matheli.github.io/Vine-leaf-diseases-and-AI/Team) | [Der Betriebsschlüssel](https://matheli.github.io/Vine-leaf-diseases-and-AI/Betriebsschl%C3%BCssel) | [Datenschutzerklärung](https://matheli.github.io/Vine-leaf-diseases-and-AI/Datenschutzerklärung) | [Impressum](https://matheli.github.io/Vine-leaf-diseases-and-AI/Impressum) |
+| [Generelle Projektinformationen](https://matheli.github.io/Vine-leaf-diseases-and-AI/) | [Die verschiedenen Krankheiten](https://matheli.github.io/Vine-leaf-diseases-and-AI/Different-diseases) | [Die App](https://matheli.github.io/Vine-leaf-diseases-and-AI/App) | [Der Code des Modells Teil 1](https://matheli.github.io/Vine-leaf-diseases-and-AI/Code) | [Der Code des Modells Teil 2](https://matheli.github.io/Vine-leaf-diseases-and-AI/Code2) | [Image Preprocessing](https://matheli.github.io/Vine-leaf-diseases-and-AI/ImagePreprocessing) | [Sonstige Informationen](https://matheli.github.io/Vine-leaf-diseases-and-AI/Sonstiges) | [Umfrage](https://matheli.github.io/Vine-leaf-diseases-and-AI/Survey) | [The Team](https://matheli.github.io/Vine-leaf-diseases-and-AI/Team) | [Der Betriebsschlüssel](https://matheli.github.io/Vine-leaf-diseases-and-AI/Betriebsschl%C3%BCssel) | [Interviews mit den Weinköniginnen](https://matheli.github.io/Vine-leaf-diseases-and-AI/Interviews)| [Datenschutzerklärung](https://matheli.github.io/Vine-leaf-diseases-and-AI/Datenschutzerklärung) | [Impressum](https://matheli.github.io/Vine-leaf-diseases-and-AI/Impressum) |
 
