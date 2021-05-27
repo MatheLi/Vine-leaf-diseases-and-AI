@@ -14,40 +14,40 @@ Außerdem unterscheidet die KI zusätzlich zwischen:
 
 ## Echter Mehltau
 
-Beim Echten Mehltau handelt es sich eine Erkrankung verschiedenen Weinrebarten durch den Erreger „Erysiphe necator“, der zu den sogenannten Schönwetterpilzen gehört. Bekannt ist die Krankheit durch den Schlauchpilz zudem unter den Bezeichnungen Oidium oder Äscherich, was vor allem auf die gräuliche Färbung der Pflanze hinweist, sobald der Befall stark fortgeschritten ist. Der Schlauchpilz befällt den Wein, in dem er sich auf der Oberfläche der Pflanzenteile sammelt und dort über Saugorgane in diese eindringt, genauer gesagt in deren Zellen. Der Pilz greift somit in den Nährstoffhaushalt der Weinrebe ein und wirkt sich negativ auf diesen mit folgenden Symptomen aus:
-
-*   es bilden sich weiß-graue Flecken unter und auf den Blättern
-*   ebenso netzartige Strukturen, die an Spinnweben erinnern
-*   je stärker die Weinreben befallen sind, desto mehr Pflanzenteile sind betroffen: Triebe, Blüten, Knospen, Trauben
-*   die Schicht wirkt mehlig, leicht schimmlig
-*   Blätter rollen sich ein
-*   Blüten können sich nicht mehr öffnen
-*   Trauben werden hart, färben sich grau oder schwarz und erleiden Samenbruch, sind nicht mehr essbar
-*   Wachstum wird eingeschränkt
-*   Weinrebe geht nach und nach ein
-*   spätere Stadien: Flecken färben sich grau-bräunlich
-
-[Quelle](https://www.plantopedia.de/mehltau-am-wein-bekaempfen/)
+Wissen-schaftlicher Begriff:	Erysiphaceae, Erysiphe necator, Oidium
+Gattung bzw. Abteilung:	Schlauchpilze (Ascomycota), Unterabteilung, Echte Schlauchpilze (Pezizomycotina)
+Merkmale:	Es bilden sich weiß-graue Flecken und netzartige Strukturen, vergleichbar mit Spinnweben auf und unter den Blättern. Die sich bildende Schicht auf dem Blatt wirkt leicht schimmlig und mehlig.
+Folgen:	Als Folge auf die Krankheit rollen sich oft die Blätter ein, die Blüten können sich nichtmehr öffnen und die Früchte werden hart, färben sich grau bis schwarz, schließlich kann es auch zu einem Samenbruch kommen und die Trauben sind somit nichtmehr zum Verzehr geeignet. Außerdem wird das Wachstum eingeschränkt und die Pflanze geht ein.
+Ausbreitung:	Durch den Wind werden die Sporen weitergetragen und die Krankheit verbreitet
 
 ![Bild vom echten Mehltau](./DSC_0036.JPG)
 
 ## Falscher Mehltau
-Der Falsche Mehltau wird durch den Erreger „Plasmopara viticola“ ausgelöst, wobei es sich hier um einen sogenannten Schein- oder Eipilz handelt. Sie sind im Vergleich zum Echten Mehltau als Schlechtwetterpilze bekannt und bevorzugen eine feuchte Umgebung. Besonders effektiv ist der Befall, sobald die Nächte feucht sind. Regen ist der beste Überträger aller Mehltaupilze, da dieser allein schon durch das Hochspritzen die Unterseite der Blätter infizieren kann. Im Gegensatz zu Erysiphe necator ernähren sich die Scheinpilze nicht von den Nährstoffen in der Pflanze, sondern befallen die Zellen direkt und erzeugen durch Sporenträger denn charakteristischen Belag. Bei einem Befall entstehen folgende Symptome:
-*   weißer, grauer oder leicht violetter mehliger Belag bildet sich an der Blattunterseite
-*   Blattoberseite hellt sich auf und bildet Ölflecken
-*   Blätter verwelken mit der Zeit
-*   Pflanze kann komplett eingehen
-*   Lederbeerigkeit, Trauben nicht mehr essbar
-
-[Quelle](https://www.plantopedia.de/mehltau-am-wein-bekaempfen/)
+Wissen-schaftlicher Begriff: Plasmopara viticola, Peronospora
+Gattung bzw. Abteilung: Scheinpilz, Eipilze (Oomycota)
+Merkmale: Es bilden sich leicht violette oder weiß-graue mehlige Beläge an der Blattunterseite. Auf der Blattoberseite sind entweder Ölflecken oder rot gefärbte Flächen (siehe Bild) sichtbar.
+Folgen: Die Folge auf dem Befall ist ein welken und eingehen der Blätter und schließlich der ganzen Weinrebe. Auch die Trauben sind dann nichtmehr für den Verzehr geeignet.
+Ausbreitung: Durch den Wind werden die Sporen weitergetragen und die Krankheit verbreitet
 
 ![Bild vom falschen Mehltau](./DSC_0159.JPG)
 ![](./f34c1f70-5f11-45e7-83aa-af7534d35027.jpg)
 ## Schwarzholzkrankheit
-Die ersten Symptome treten ab Juli an der Triebmitte auf. Bei roten Rebsorten werden die Blätter sektor weise lila bis rötlich, weiße Rebsorten verfärben sich hellgrün bis gelblich. Die Blätter rollen sich ein und auch die Blattadern sind von der Verfärbung betroffen.
-[Quelle](https://lvwo.landwirtschaft-bw.de/pb/site/pbs-bw-new/get/documents/MLR.LEL/PB5Documents/lvwo/pdf/f/FaltblattSchwarzholz.pdf?attachment=true)
+
+Wissen-schaftlicher Begriff: Bois noir, Candidatus Phytoplasma solani
+Gattung bzw. Abteilung: Candidatus Phytoplasma (zellwandlose Bakterien)
+Merkmale: Während eine rötliche bis lila Färbung der Blätter bei rotblättrigen Sorten Symptom für die Schwarzholzkrankheit ist, färben sich die Blätter bei weißen Rebsorten hellgrün bis gelblich.
+Folgen: Das Einrollen der Blätter ist eine Folge des Befalls. Die Beeren haben einen unreifen und bitteren Geschmack, welche sie für den Konsum „nutzlos“ werden lässt.
+Ausbreitung: Die Krankheit befindet sich in den Saftleitbahnen der Rebe und erfolgt somit über einen Vektor (Überträger) z.B. durch Zikaden aber auch durch Pfropfung.
+
 ![Bild der Schwarzholzkrankheit](./Schwarzholzkrankheit_Bild.jpg)
 ## Esca
+
+Wissen-schaftlicher Begriff: Esca-Krankheit
+Gattung bzw. Abteilung: Omitiporia, Phaeomoniella, Phaeoacremonium, Abteilung Schlauchpilze
+Merkmale: Das wohl offensichtlichste Merkmal der Esca-Krankheit an Weinreben sind die Tigerstreifen auf den Blättern. Die Blattadern sind dabei meist entweder von einem gelben oder von einem roten Saum umlagert. Ein weiteres Symptom kann ihre gelbe Färbung sein, welche durch die Krankheit bereits im Sommer eintritt.
+Folgen: Die Blätter vertrocknen und fallen in Folge des Befalls ab. Auch die Trauben schrumpfen ein und färben sich braun, ähnlich Lederbeeren und springen auf. Insgesamt ist eine Vertrocknung und das Absterben des Rebstocks zu verzeichnen.
+Ausbreitung: Durch den Wind werden die Sporen weitergetragen und die Krankheit verbreitet
+
 Ein typischer Indikator für die Esca Krankheit sind die Tigerstreifen. Das gestreifte Muster entsteht durch die Verbindung von bräunlichen und hellen/grünlichen Elementen und erinnert an das das Fell eines Tigers. Die Weinbeeren fallen meist klein aus und färben sich schwarz.
 Die Krankheit tritt gehäuft ab circa Juni auf und die Pilze befallen die Pflanze meist durch Schäden im Holz.
 Resultat ist das Absterben von Blättern, Beeren und des gesamten Rebstockes. Bisher gibt es noch keine zugelassene und zuverlässige Bekämpfungsmethode, aber im Rahmen der Schadensbegrenzung ist es essenziell, die Esca Krankheit früh zu erkennen und den Befall schnellstmöglich lokal zu entfernen, um ein weiteres Ausbreiten zu verhindern.
