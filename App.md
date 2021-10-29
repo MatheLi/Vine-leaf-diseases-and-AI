@@ -1,7 +1,7 @@
 ### App installieren
 
 Unsere App steht ab sofort im PlayStore sowie AppStore ***kostenlos*** zur  Verfügung!
-Laden Sie unsere App im PlayStore (Android) bzw. AppStore (Apple) herunter.
+Laden Sie unsere App im [PlayStore](https://play.google.com/store/apps/details?id=com.informaticteens.VineLeafDiseaseAndAi) (Android) bzw. [AppStore](https://apps.apple.com/us/app/vine-leaf-disease-and-ai/id1567404977) (Apple) herunter.
 Falls Unklarheiten bestehen/ Sie Hilfe bei Installation/Benutzung der App benötigen, laden wir Sie dazu ein sich folgendes kurzes Anleitungsvideo anzusehen [Bitte hier Klicken](https://www.youtube.com/watch?v=sEKOJEgDL_c)
 Ansosnten können Sie uns gerne per Mail (informaticteens@gmail.com) kontaktieren.
 
