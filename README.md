@@ -2,13 +2,13 @@
 
 ### Erkennung von Weinblattkrankheiten mit Künstlicher Intelligenz
 
-[Klicken Sie Bitte hier falls Sie unter die Kategorie Winzer, Investor oder Sonstige gehören](https://sites.google.com/view/vine-leaf-disease-and-ai/startseite)
+[Klicken Sie Bitte hier falls Sie unter die Kategorie Winzer, Investor oder Sonstige fallen](https://sites.google.com/view/vine-leaf-disease-and-ai/startseite)
 
 ----------------------
 
 
 
-[Klicken Sie Bitte hier falls Sie unter die Kategorie Informatiker oder "am Code/ Aufbau Interessiert" gehören](https://matheli.github.io/Vine-leaf-diseases-and-AI/index)
+[Klicken Sie Bitte hier falls Sie unter die Kategorie Informatiker oder "am Code/ Aufbau Interessiert" fallen](https://matheli.github.io/Vine-leaf-diseases-and-AI/index)
 
 
 ---------------
