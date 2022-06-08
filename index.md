@@ -1,7 +1,3 @@
-# Vine-leaf-diseases-and-AI
-
-### Erkennung von Weinblattkrankheiten mit KI
-
 # Vine leaf diseases and AI
 
 ### Erkennung von Weinblattkrankheiten mit Künstlicher Intelligenz
