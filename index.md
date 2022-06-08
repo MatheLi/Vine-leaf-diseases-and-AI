@@ -17,7 +17,7 @@ Bleiben Sie Bitte hier falls Sie unter die Kategorie Informatiker oder "am Code/
 
 Ziel des Projekes: Unsere KI soll mit Hilfe von Handybildern Weinblattkrankheiten erkennen und unterscheiden können.
 
-<img src="https://github.com/MatheLi/Vine-leaf-diseases-and-AI/blob/11e13ad0bdf7636592f1d0769dbeda3c9e456256/newQualityLogo.jpg" width="250" height=auto>
+<img src="https://github.com/MatheLi/Vine-leaf-diseases-and-AI/blob/11e13ad0bdf7636592f1d0769dbeda3c9e456256/newQualityLogo.jpg" alt="Logo" width="250" height=auto>
 
 Wir haben eine Handy-App programmiert die Blattkrankheiten von Weinreben mit Hilfe von Künstlicher Intelligenz klassifiziert.
 
