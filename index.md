@@ -1,14 +1,27 @@
-# Vine-leaf-diseases-and-AI Test
+# Vine-leaf-diseases-and-AI
 
 ### Erkennung von Weinblattkrankheiten mit KI
 
+# Vine leaf diseases and AI
+
+### Erkennung von Weinblattkrankheiten mit Künstlicher Intelligenz
+
+[Klicken Sie Bitte hier falls Sie unter die Kategorie Winzer, Investor oder Sonstige fallen](https://sites.google.com/view/vine-leaf-disease-and-ai/startseite)
+
+----------------------
+
+
+
+[Klicken Sie Bitte hier falls Sie unter die Kategorie Informatiker oder "am Code/ Aufbau Interessiert" fallen](https://matheli.github.io/Vine-leaf-diseases-and-AI/index)
+
+
+---------------
+
+
+
 Ziel des Projekes: Unsere KI soll mit Hilfe von Handybildern Weinblattkrankheiten erkennen und unterscheiden können.
 
-<img src="https://raw.githubusercontent.com/MareSeestern/VineLeafDisease/master/res/titelbild.JPG" width="900" height="500">
-
-<a href="https://pixabay.com/de/photos/trauben-weintrauben-sonne-3550729/">Image Source</a>
-
-Ziel des Projekes: Unsere KI soll mit Hilfe von Handybildern Weinblattkrankheiten erkennen und unterscheiden können.
+<img src="https://https://matheli.github.io/Vine-leaf-diseases-and-AI/newQualityLogo.jpg" width="250" height=auto>
 
 Wir haben eine Handy-App programmiert die Blattkrankheiten von Weinreben mit Hilfe von Künstlicher Intelligenz klassifiziert.
 
